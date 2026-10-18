@@ -42,3 +42,6 @@ product performance, and order status.
 
 ## 👨‍💻 Author
 Vashu Sharma
+## Dashboard Preview
+
+![Amazon Sales Dashboard](Screenshot%202026-10-18%20164224.png)
